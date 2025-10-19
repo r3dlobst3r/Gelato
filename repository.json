@@ -8,6 +8,14 @@
     "owner": "lstb1t",
     "versions": [
       {
+        "changelog": "Added filter to exclude unreleased items from all Stremio addons (TMDB, Torrentio, etc.)\n\n**Features:**\n- Filter out items not yet available for home viewing\n- 30-day buffer after theatrical release for movies\n- No buffer for TV shows (direct home release)\n- Applies universally to search results and catalog imports\n- Toggle on/off via plugin configuration (enabled by default)\n\n**How it works:**\nMovies must be released for at least 30 days (to account for theatrical → digital/physical delay) before appearing in search or catalogs.",
+        "checksum": "4acf608df3c2f0409249117dc2787714",
+        "sourceUrl": "https://github.com/r3dlobst3r/Gelato/releases/download/v0.9.27.0/gelato_0.9.26.0.zip",
+        "targetAbi": "10.11.0.0",
+        "timestamp": "2025-10-19T02:17:36Z",
+        "version": "0.9.26.0"
+      },
+      {
         "changelog": "<!-- Release notes generated using configuration in .github/release.yml at fix-unreleased -->\r\n\r\n\r\n\r\n**Full Changelog**: https://github.com/r3dlobst3r/Gelato/compare/0.9.25.0...0.9.77.0",
         "checksum": "842c04dbb20c35ad52643f95ad78243e",
         "sourceUrl": "https://github.com/r3dlobst3r/Gelato/releases/download/0.9.77.0/gelato_0.9.26.0.zip",
