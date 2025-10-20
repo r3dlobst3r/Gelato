@@ -8,6 +8,14 @@
     "owner": "lstb1t",
     "versions": [
       {
+        "changelog": "<!-- Release notes generated using configuration in .github/release.yml at fix-unreleased -->\r\n\r\n\r\n\r\n**Full Changelog**: https://github.com/r3dlobst3r/Gelato/compare/v0.9.27.0...0.9.28.0",
+        "checksum": "47e06c52999c6b4f86ad172285b9d164",
+        "sourceUrl": "https://github.com/r3dlobst3r/Gelato/releases/download/0.9.28.0/gelato_0.9.28.0.zip",
+        "targetAbi": "10.11.0.0",
+        "timestamp": "2025-10-20T15:58:56Z",
+        "version": "0.9.28.0"
+      },
+      {
         "changelog": "## Features\n- Added filter to hide unreleased items from catalogs and search results\n- Movies require 30 days after theatrical release before appearing\n- TV shows have no buffer (immediate availability)\n- Filter can be toggled in plugin settings\n\n## Configuration\nGo to Dashboard → Plugins → Gelato → Settings and enable/disable 'Filter unreleased items' checkbox.",
         "checksum": "3379ca8f41907cff94347fced1c53521",
         "sourceUrl": "https://github.com/r3dlobst3r/Gelato/releases/download/v0.9.27.0/gelato_0.9.27.0.zip",
